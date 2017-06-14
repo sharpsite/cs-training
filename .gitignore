@@ -289,3 +289,5 @@ __pycache__/
 
 /logs/*.html
 /logs/*.log
+
+LICENSE

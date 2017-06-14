@@ -1,2 +1,2 @@
-# cs-training
+# C# training
 C# training - OOP
